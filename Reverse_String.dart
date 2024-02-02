@@ -1,3 +1,5 @@
+// Write a program that takes a string as input and prints it in reverse order.
+
 void main() {
   String str = "Hello, world!";
   String reversed = "";
